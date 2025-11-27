@@ -1,0 +1,14 @@
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\bin\Debug\net9.0\03abstracao.exe
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\bin\Debug\net9.0\03abstracao.deps.json
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\bin\Debug\net9.0\03abstracao.runtimeconfig.json
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\bin\Debug\net9.0\03abstracao.dll
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\bin\Debug\net9.0\03abstracao.pdb
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\obj\Debug\net9.0\03abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\obj\Debug\net9.0\03abstracao.AssemblyInfoInputs.cache
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\obj\Debug\net9.0\03abstracao.AssemblyInfo.cs
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\obj\Debug\net9.0\03abstracao.csproj.CoreCompileInputs.cache
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\obj\Debug\net9.0\03abstracao.dll
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\obj\Debug\net9.0\refint\03abstracao.dll
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\obj\Debug\net9.0\03abstracao.pdb
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\obj\Debug\net9.0\03abstracao.genruntimeconfig.cache
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\03abstracao\obj\Debug\net9.0\ref\03abstracao.dll
